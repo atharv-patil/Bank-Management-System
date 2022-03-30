@@ -1,7 +1,7 @@
 # Bank-Management-System
 The main objective of the project is to develop online Banking
 system for banks. There are many local banks where the banking work is
-done manually. Users have to visit bank to Withdrawal or
+still done manually. Users have to visit bank to Withdrawal or
 Deposit amount. In present bank system it is also difficult to find
 account information of account holder. In this bank management
 system we will automate all the banking process. In our bank
